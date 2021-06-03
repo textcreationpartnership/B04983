@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution taken by the confederat princes, and other allied powers, in relation to France.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04983</idno><idno type="EEBO-CITATION">52529174</idno>
+  <idno type="VID">178860</idno>
+  <idno type="EEBO-PROQUEST">2240898574</idno>
+  
+            <idno type="STC">Wing R1161</idno>
+            <idno type="STC">ESTC R182682</idno>
+            <idno type="OCLC">52529174</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178860)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution taken by the confederat princes, and other allied powers, in relation to France.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year, 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178860:1"/>
+            <head>The Resolution taken by the Confederat Princes, and other Allied Powers, in Relation to <hi>France.</hi>
+            </head>
+            <p>HAving Resolved to make this year, a Descent into <hi>France,</hi> that by so attack<g ref="char:EOLhyphen"/>ing our common Enemy where our Efforts may be most sensibly felt, We may the more easily Reduce him to Reason: In order thereunto, We first, all So<g ref="char:EOLhyphen"/>lemnly Swear, and Protest before God, that we will make no Peace with <hi>Lewis</hi> the Fourteenth, but upon the conditions Stipulated by the Articles of the <hi>Pyre<g ref="char:EOLhyphen"/>nean,</hi> and <hi>Westphalian</hi> Treaties which have been violated by <hi>France;</hi> and upon other agreements which we have hereunto subjoyned, which though they be partly the Fundamental Rights of the <hi>French</hi> Nation, and partly privileges con<g ref="char:EOLhyphen"/>firmed by the most solemn Edicts, have been with no less violence and injustice infringed.</p>
+            <list>
+               <item>(I) Till the General Estates of the Kingdom be restored to their ancient Liberties, Power and share in the Legislative and Supream Power; and till both the Cler<g ref="char:EOLhyphen"/>gy, Nobility, and Third Estate be reinstated in all their former Legal priviledges; and till there be good provision made, that all Kings of <hi>France</hi> in time to come, shall be obliged to convoke the said Estates, when they shall need Money for any publick concerns, and shall have no more power, in any manner, or upon any pretence whatsoever, to raise any Taxes, or any sorts of Imposts without their consent.</item>
+               <item>(II) Till the several Courts of Parliament in the Kingdom be reinstated into that suf<g ref="char:EOLhyphen"/>ficient and Legal authority with which they were primarily invested, That so without being awed by any Check from an Arbitrary power, or being ob<g ref="char:EOLhyphen"/>structed by the corruptions ordinarly arising from undue and illegal Promotions to those high Posts of Judicature, they may be both able, and well inclined to do Justice indifferently to all Parties.</item>
+               <item>III. Till all the Cities of the Kingdom be restored to their old Charters and Privi<g ref="char:EOLhyphen"/>ledges; and to the Revenues assigned for their support, and the publick good of their several Corporations which have been so inhumanely, and unjustly ravish<g ref="char:EOLhyphen"/>ed from them.</item>
+               <item>IV. Till all those Swarms of <hi>Catterpillars</hi> of Monopolists, pernicious Publicans, and Farmers of Royal Revenues, and other oppressed undertakers be removed, and all the illegal and new invented Charges and Taxes be taken off, as in particular, the irregular Lodging and Quartering both of Courtiers and Souldiers, the Ex<g ref="char:EOLhyphen"/>actions for Winter quarters, and Salaries of Governors, and multitude of sham Debts, and private businesses of the Crown, unnecessarly and without Authori<g ref="char:EOLhyphen"/>ty charged upon particular persons, Towns or Cities, and which enter not into the State or Accounts of the publick Revenues; of extraordinary excises upon Wine, Cider, and other Liquors, the <hi>Gabells</hi> upon Corn, and Flour, upon hoofed Beasts, and Salt, the unreasonable and unexampled Imposts upon the Marks of Paper, Money, and all Utensils, or Moveables made of Metal, upon Hats, Silk<g ref="char:EOLhyphen"/>stockings, Wools, and woolen Manufactures; Shoes, Suppers, wooden-shooes, and all sorts of Linen, and Pirriwigs, as also upon Tobacco, Coffee, Tea, Choco<g ref="char:EOLhyphen"/>late, <hi>&amp;c.</hi> Upon all Manufactures of Silk, and upon all the Estates and Goods or No<g ref="char:EOLhyphen"/>ble or Gentlemen every five Years, the Taxe of the <hi>Frank Fife,</hi> and several other oppressive exactions upon the Buyers and Sellers, or Morgagers of Lands, Houses, <hi>&amp;c.</hi> And upon the Officers of the Courts of Judicature, and of the Treasury and Exchequer; of the Injurious, and Arbitrary Retrenchment of Wages, raising
+<pb facs="tcp:178860:2"/>or lowering the value, and debasing the purity of Money and Coin, and unjust Re-union to the Crown, Lands and Possessions long enjoyed by great and deserv<g ref="char:EOLhyphen"/>ing Families, upon dispotical Pretences, and besides an infinite many other new and unheard of Exactions; of the strange impositions upon Marriages, Christnings, Buryings, and Bastards, <hi>&amp;c.</hi> And to conclude all in a word; Till the Revenues of the Crown be fixed, and reduced within such certain and moderate Bounds as shal seem most requisite to the Wisdom of the General Estates when Conveen<g ref="char:EOLhyphen"/>ed; and good provision be made that no succeeding French Monarchs shal ever pass those Bounds.</item>
+               <item>V. Till he has rendered to all the Protestants of his Kingdoms the Estates, Effects, and Liberties they were seised of by vertue of the Edict of <hi>Nants,</hi> and all other pri<g ref="char:EOLhyphen"/>viledges they enjoyed thereby according to the true meaning, and to the full ex<g ref="char:EOLhyphen"/>tent of the said Edict: And till for their future security both in their Civil and Religious Rights and Capacities, according to the meaning of the said Edict, the said French King shall have delivered some sufficient Cautionry, Towns to be held and Fortified by those Protestant Allies that shall be made Guardians, or Conser<g ref="char:EOLhyphen"/>vators of the Treaty to be agreed upon.</item>
+               <item>VI. And Lastly, We Declare, as in the sight of GOD, That in these our just Attempts, We are not actuated by any hatred or animosity against the <hi>French</hi> Nation, nor by any ambitious designs to Conquer or Seise on any of the Antient and Lawful Dominions of <hi>France,</hi> or to dismember that Monarchy of any of the Provinces justly belonging to it, but that Our ultimate aim is only to repress that exorbitant Power whereby that Crown has been enabled hitherto to oppress its own Subjects, and threaten the Liberty of all <hi>Europe</hi> besides; And that We ad<g ref="char:EOLhyphen"/>vance towards the Frontiers of <hi>France,</hi> with as hearty an intention to Right the Wrongs of its Subjects, as those of our own People, esteeming the re-establish<g ref="char:EOLhyphen"/>ment of their just and antient Liberties, to be the best Bulwark of our own, against our and their common Oppressor; And that therefore, We do friendly and hear<g ref="char:EOLhyphen"/>tily invite them to come in to us, and to join their Arms and other Assistance with us, towards their Deliverance, assuring them we will treat them as our best Friends, and will take care to preserve their Persons, Towns, and Lands, and all that shal concern them, as if they were our own; But at the same time we have thought fit also to Declare to all that shall not comply with our Invitations, and assistances in<g ref="char:EOLhyphen"/>tended for their common good, That We shall distinguish them for Enemies of their Country, and of all sort of Christianity and Humanity, and as barbarous Wretches that have abetted and approved all the Persecutions, Burnings, Desola<g ref="char:EOLhyphen"/>tions, and other Vexations which have been committed by those of their own Nation, both within and without <hi>France,</hi> and shall make them feel without mer<g ref="char:EOLhyphen"/>cy those pains which their inhumane Countrey-men have made so many thousands of miserable People suffer.</item>
+            </list>
+            <p>And We have thought fit to make publick this Our Declaration, that all the World might know the sincerity of our Resolution, and particularly those of the <hi>French</hi> Nation, which groan under the intollerable Oppression of the present Government there, and who with the loss of their Liberty, have redoubled their desires of Recovering it again, that they may be informed to whom, and with what confidence and assurance, they may apply themselves, in this great oppor<g ref="char:EOLhyphen"/>tunity offered them by the Just and Almighty GOD, to Regain their ancient Freedom and Priviedges, which have been so long, and so cruelly extorted and detained from them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year, 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
